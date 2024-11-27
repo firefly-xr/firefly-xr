@@ -28,7 +28,7 @@ I'm dedicated to mastering these fields and building impactful projects that sol
 <a href="https://www.linkedin.com/in/ain-shamsudheen-8148551b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ain shamsudheen" height="30" width="40" /></a>
 <a href="https://instagram.com/ainshamsudheen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ainshamsudheen" height="30" width="40" /></a>
 <a href="https://dribbble.com/fireflyxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="fireflyxd" height="30" width="40" /></a>
-<a href="https://hashnode.com/fireflyxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="fireflyxr" height="30" width="40" /></a>
+<a href="https://hashnode.com/@fireflyxr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="fireflyxr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ainshamsudheen11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ainshamsudheen11" height="30" width="40" /></a>
 </p>
 
