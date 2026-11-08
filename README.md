@@ -1,6 +1,9 @@
-# Ain Shamsudheen
+   <picture>
+     <source media="(prefers-reduced-motion: reduce)" srcset="assets/title-static.svg">
+     <img src="assets/title.svg" width="100%" alt="Ain Shamsudheen: systems, embedded, Linux. A purple pixel dragon breathing green fire.">
+   </picture>
 
-### Systems Software Engineering | Embedded Systems | Linux
+   
 
 I'm a Computer Science and Engineering student interested in building software that interacts with hardware and operates close to the system level.
 
